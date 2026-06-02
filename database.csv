@@ -941,6 +941,7 @@ id,sse,vr,status,name
 42638,0x1407369b0,0x1407614b0,3,splashes_of_skyrim::ProjectileManager::ProcessInWater::create_splash
 42664,0x140738780,0x140763320,3,"void Explosion::Update(Explosion* a_this, float a_delta)"
 42696,0x14073c410,0x140766fb0,3,"bool Explosion::CheckInit3D(Explosion *a_this)"
+42697,0x14073c960,0x140767500,4,"void SortCollisionHits_14073C960(void* a_buffer, int a_lo, int a_hi, bool a_flag)"
 42791,0x140740cb0,0x14076b960,3,"void Hazard::Update(Hazard *a_this, float a_delta)"
 42810,0x1407416f0,0x14076c3a0,3,"bool Hazard::CheckInit3D(Hazard *a_this)"
 42826,0x140742450,0x14076d000,3,"HitData* HitData::Ctor()"
